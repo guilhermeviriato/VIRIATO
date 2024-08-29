@@ -1,3 +1,4 @@
+//VIRIATO
 <script src="script.jts"></script>
 const caixaPrincipal = document.querySelector(".caixa-principal");
 const caixaPrincipal = document.querySelector(".caixa-principal");
@@ -12,7 +13,7 @@ const perguntas = [
 }, 
 {enunciado: "Pergunta 2" ,
     alternativas: ["Alternativa 1", "Alternativa 2"],
-
+//VIRIATO
 },
 ];
 let atual = 0;
@@ -35,3 +36,4 @@ alternativas: [
 “Isso é maravilhoso!”
 ]
     },
+//VIRIATO
